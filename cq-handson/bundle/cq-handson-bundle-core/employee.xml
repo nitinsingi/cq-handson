@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<company>
+   <employee empid="1">
+      <firstname>Nitin</firstname>
+      <lastname>Singi</lastname>
+      <nickname>NS</nickname>
+      <experience>8</experience>
+   </employee>
+   <employee empid="2">
+      <firstname>Prasad</firstname>
+      <lastname>T</lastname>
+      <nickname>PT</nickname>
+      <experience>8</experience>
+   </employee>
+   <employee empid="3">
+      <firstname>Amar</firstname>
+      <lastname>Thota</lastname>
+      <nickname>AT</nickname>
+      <experience>2</experience>
+   </employee>
+</company>
